@@ -12,7 +12,7 @@ a[:] # Batman
 
 # minusz indexelés
 # " B  a  t  m  a  n"
-# "-6 -5 -4 -3- 2 -1"
+# "-6 -5 -4 -3 -2 -1"
 
 a[-1] # -1 a legutolso karakter  'n'
 a[-2] # utolso elotti  'a'
