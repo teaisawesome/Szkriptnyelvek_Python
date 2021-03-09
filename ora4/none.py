@@ -11,5 +11,12 @@ def main():
     bool([]) # False
     bool("asd") # True
 
+    li = []
+
+    if li:
+        print("nem üres")
+
+    
+
 if __name__ == "__main__":
     main()
